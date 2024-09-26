@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tinnawutnnr
-- 👀 I’m interested in Python project
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in js
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me on my gmail
 
 <!---
