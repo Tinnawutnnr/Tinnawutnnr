@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tinnawutnnr
-- 👀 I’m interested in js
+- 👀 I’m interested in programming in rust
 - 🌱 I’m currently learning rust, go, .not, dart
 - 📫 How to reach me on my gmail
 
