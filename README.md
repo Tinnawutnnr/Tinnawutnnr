@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tinnawutnnr
-- 👀 I’m interested in programming in rust
-- 🌱 I’m currently learning rust, go, .not, dart
+- 👀 I’m interested in programming in rust and go
+- 🌱 I’m currently learning rust, go, .net, dart
 - 📫 How to reach me on my gmail
 
 <!---
